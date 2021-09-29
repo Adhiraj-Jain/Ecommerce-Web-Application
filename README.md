@@ -6,6 +6,8 @@
 ## Website Link
 - Heroku link - https://stark-bastion-27676.herokuapp.com/
 
+Note: For better experience, use Iphone X (375 x 812) view on browser while visiting the website.
+
 ## Repository Link
 - Github Repo - https://github.com/Adhiraj-Jain/Ecommerce-Web-Application
 
